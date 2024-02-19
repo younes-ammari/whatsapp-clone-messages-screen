@@ -32,10 +32,13 @@ Run on iOS simulator
 npm run ios
 ```
 
+![Preview](preview/ios.png)
+
 Run on Android simulator/device
 ```bash
 npm run android
 ```
+![Preview](preview/android.png)
 
 Run on web
 ```bash
