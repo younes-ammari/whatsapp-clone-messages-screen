@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "محمد علي",
+    "imageUrl": "https://randomuser.me/api/portraits/men/70.jpg",
+    "message": "مرحبًا، كيف حالك؟",
+    "unreadedNumber": 2,
+    "time": "12:00 مساءً",
+    "story": true
+  },
+  {
+    "id": 2,
+    "name": "أحمد حسن",
+    "imageUrl": "https://randomuser.me/api/portraits/men/85.jpg",
+    "message": "مرحبًا!",
+    "unreadedNumber": 0,
+    "time": "11:30 صباحًا",
+    "story": false
+  },
+  {
+    "id": 3,
+    "name": "عبد الرحمن محمود",
+    "imageUrl": "https://randomuser.me/api/portraits/men/90.jpg",
+    "message": "كيف الحال؟",
+    "unreadedNumber": 1,
+    "time": "10:45 صباحًا",
+    "story": true
+  },
+  {
+    "id": 4,
+    "name": "مصطفى محمد",
+    "imageUrl": "https://randomuser.me/api/portraits/men/80.jpg",
+    "message": "صباح الخير!",
+    "unreadedNumber": 3,
+    "time": "9:00 صباحًا",
+    "story": false
+  },
+  {
+    "id": 5,
+    "name": "علي أحمد",
+    "imageUrl": "https://randomuser.me/api/portraits/men/75.jpg",
+    "message": "كيف الأمور؟",
+    "unreadedNumber": 0,
+    "time": "8:15 صباحًا",
+    "story": true
+  },
+  {
+    "id": 6,
+    "name": "محمود محسن",
+    "imageUrl": "https://randomuser.me/api/portraits/men/72.jpg",
+    "message": "كان لي فترة طويلة!",
+    "unreadedNumber": 2,
+    "time": "الأمس",
+    "story": false
+  },
+  {
+    "id": 7,
+    "name": "عبد الله خالد",
+    "imageUrl": "https://randomuser.me/api/portraits/men/77.jpg",
+    "message": "مرحبا يا صديق!",
+    "unreadedNumber": 1,
+    "time": "قبل يومين",
+    "story": true
+  },
+  {
+    "id": 8,
+    "name": "خالد علي",
+    "imageUrl": "https://randomuser.me/api/portraits/men/78.jpg",
+    "message": "شون؟",
+    "unreadedNumber": 0,
+    "time": "قبل 3 أيام",
+    "story": false
+  },
+  {
+    "id": 9,
+    "name": "عبد العزيز أحمد",
+    "imageUrl": "https://randomuser.me/api/portraits/men/82.jpg",
+    "message": "هلا!",
+    "unreadedNumber": 2,
+    "time": "قبل 4 أيام",
+    "story": true
+  },
+  {
+    "id": 10,
+    "name": "أحمد عبد الله",
+    "imageUrl": "https://randomuser.me/api/portraits/men/79.jpg",
+    "message": "مرحبا!",
+    "unreadedNumber": 1,
+    "time": "قبل 5 أيام",
+    "story": false
+  },
+  {
+    "id": 11,
+    "name": "عمر علي",
+    "imageUrl": "https://randomuser.me/api/portraits/men/76.jpg",
+    "message": "هلا!",
+    "unreadedNumber": 0,
+    "time": "قبل أسبوع",
+    "story": true
+  },
+  {
+    "id": 12,
+    "name": "محمد إبراهيم",
+    "imageUrl": "https://randomuser.me/api/portraits/men/81.jpg",
+    "message": "شنون؟",
+    "unreadedNumber": 3,
+    "time": "قبل أسبوعين",
+    "story": false
+  },
+  {
+    "id": 13,
+    "name": "يوسف عبد الله",
+    "imageUrl": "https://randomuser.me/api/portraits/men/73.jpg",
+    "message": "مرحبًا!",
+    "unreadedNumber": 0,
+    "time": "قبل 3 أسابيع",
+    "story": true
+  },
+  {
+    "id": 14,
+    "name": "عبد الرحمن محمد",
+    "imageUrl": "https://randomuser.me/api/portraits/men/74.jpg",
+    "message": "كيف الحياة؟",
+    "unreadedNumber": 1,
+    "time": "قبل شهر",
+    "story": false
+  },
+  {
+    "id": 15,
+    "name": "محمد أحمد",
+    "imageUrl": "https://randomuser.me/api/portraits/men/83.jpg",
+    "message": "شون أخي؟",
+    "unreadedNumber": 2,
+    "time": "قبل شهرين",
+    "story": true
+  }
+]

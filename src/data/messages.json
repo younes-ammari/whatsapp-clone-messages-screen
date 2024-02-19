@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "imageUrl": "https://randomuser.me/api/portraits/men/70.jpg",
+    "message": "Hi, how are you?",
+    "unreadedNumber": 2,
+    "time": "12:00 PM",
+    "story": true
+  },
+  {
+    "id": 2,
+    "name": "Peter Smith",
+    "imageUrl": "https://randomuser.me/api/portraits/men/85.jpg",
+    "message": "Hey there!",
+    "unreadedNumber": 0,
+    "time": "11:30 AM",
+    "story": false
+  },
+  {
+    "id": 3,
+    "name": "David Johnson",
+    "imageUrl": "https://randomuser.me/api/portraits/men/90.jpg",
+    "message": "What's up?",
+    "unreadedNumber": 1,
+    "time": "10:45 AM",
+    "story": true
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "imageUrl": "https://randomuser.me/api/portraits/men/80.jpg",
+    "message": "Good morning!",
+    "unreadedNumber": 3,
+    "time": "9:00 AM",
+    "story": false
+  },
+  {
+    "id": 5,
+    "name": "Chris Wilson",
+    "imageUrl": "https://randomuser.me/api/portraits/men/75.jpg",
+    "message": "How's it going?",
+    "unreadedNumber": 0,
+    "time": "8:15 AM",
+    "story": true
+  },
+  {
+    "id": 6,
+    "name": "Daniel Taylor",
+    "imageUrl": "https://randomuser.me/api/portraits/men/72.jpg",
+    "message": "Long time no see!",
+    "unreadedNumber": 2,
+    "time": "Yesterday",
+    "story": false
+  },
+  {
+    "id": 7,
+    "name": "Matthew Martinez",
+    "imageUrl": "https://randomuser.me/api/portraits/men/77.jpg",
+    "message": "Hey buddy!",
+    "unreadedNumber": 1,
+    "time": "2 days ago",
+    "story": true
+  },
+  {
+    "id": 8,
+    "name": "Joseph Anderson",
+    "imageUrl": "https://randomuser.me/api/portraits/men/78.jpg",
+    "message": "Sup?",
+    "unreadedNumber": 0,
+    "time": "3 days ago",
+    "story": false
+  },
+  {
+    "id": 9,
+    "name": "Robert Thomas",
+    "imageUrl": "https://randomuser.me/api/portraits/men/82.jpg",
+    "message": "Howdy!",
+    "unreadedNumber": 2,
+    "time": "4 days ago",
+    "story": true
+  },
+  {
+    "id": 10,
+    "name": "Mark Jackson",
+    "imageUrl": "https://randomuser.me/api/portraits/men/79.jpg",
+    "message": "Yo!",
+    "unreadedNumber": 1,
+    "time": "5 days ago",
+    "story": false
+  },
+  {
+    "id": 11,
+    "name": "William White",
+    "imageUrl": "https://randomuser.me/api/portraits/men/76.jpg",
+    "message": "Hello!",
+    "unreadedNumber": 0,
+    "time": "1 week ago",
+    "story": true
+  },
+  {
+    "id": 12,
+    "name": "Richard Harris",
+    "imageUrl": "https://randomuser.me/api/portraits/men/81.jpg",
+    "message": "What's new?",
+    "unreadedNumber": 3,
+    "time": "2 weeks ago",
+    "story": false
+  },
+  {
+    "id": 13,
+    "name": "Anthony Lee",
+    "imageUrl": "https://randomuser.me/api/portraits/men/73.jpg",
+    "message": "Hey!",
+    "unreadedNumber": 0,
+    "time": "3 weeks ago",
+    "story": true
+  },
+  {
+    "id": 14,
+    "name": "Charles Clark",
+    "imageUrl": "https://randomuser.me/api/portraits/men/74.jpg",
+    "message": "How's life?",
+    "unreadedNumber": 1,
+    "time": "1 month ago",
+    "story": false
+  },
+  {
+    "id": 15,
+    "name": "Steven Young",
+    "imageUrl": "https://randomuser.me/api/portraits/men/83.jpg",
+    "message": "Sup bro?",
+    "unreadedNumber": 2,
+    "time": "2 months ago",
+    "story": true
+  }
+]
